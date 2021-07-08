@@ -1,6 +1,6 @@
 # 💻 Gama Academy | Projeto - Módulo 05 - JS
 
-## 🎵 Conheça músicas com diferentes idiomas.
+## 🎵 Conheça músicas de diferentes idiomas.
 
 #### Projeto desenvolvido na última aula do Módulo 05 de JavaScript. O projeto original usava livros em vez de músicas.
 
